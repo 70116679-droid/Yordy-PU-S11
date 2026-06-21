@@ -1,0 +1,34 @@
+# Dependencias
+
+/vendor/
+
+# Archivos del sistema
+
+.DS_Store
+Thumbs.db
+
+# Configuración del editor
+
+.vscode/
+.idea/
+
+# Logs
+
+*.log
+
+# Variables de entorno
+
+.env
+
+# Caché
+
+.cache/
+
+# PHPUnit
+
+.phpunit.result.cache
+
+# Composer
+
+composer.lock
+
